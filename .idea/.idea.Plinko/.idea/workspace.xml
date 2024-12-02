@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7e6fbd3-4e5c-43ae-af6c-1987bd35f579" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/BuyCoinPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Bootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Intallers/GameplaySceneInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/GamePlaySceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/PoolMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BetAmountManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoinManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoinService.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuyCoinPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameplaySceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollectionBasket/CollectionBasket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaticBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScreenSizeManager/ScreenSizeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Intallers/GameplaySceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallPlaceManager/BallPlacementManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecentEarningsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StatsPage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/BallPlacementManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/BallScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/BallSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/CollectionBasket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/StaticBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/ScreenSizeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Services/CoinService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Services/PoolMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/BetAmountManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/BuyCoinPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CoinManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/RecentEarningsManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2pYnJwIPaPTRDTKn0aI5z2MDwss" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e6fbd3-4e5c-43ae-af6c-1987bd35f579" name="Default Changelist" comment="" />
+      <created>1732951810450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732951810450</updated>
+      <workItem from="1732951825615" duration="17652000" />
+      <workItem from="1733068687713" duration="5574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="221" key="RiderGenerateDialog" timestamp="1732960235046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="221" key="RiderGenerateDialog/0.0.1920.1040/-1920.3.1920.1040@0.0.1920.1040" timestamp="1732960235046" />
+  </component>
+</project>
